@@ -154,12 +154,3 @@ The key point is not that an Arduino needs 5G to switch an LED. A local controll
 - GPS-based ambulance routing
 - reinforcement-learning signal optimization
 
-## Team / presentation note
-
-During evaluation, the key question was:
-
-> "Why do you even need 5G for this?"
-
-The strongest technical answer is:
-
-**The local signal controller does not need 5G just to operate a traffic light. 5G becomes valuable when TRAFFINET scales into a connected intelligent-transport system where intersections, sensors, emergency vehicles and edge services exchange time-sensitive data with low communication latency.**
